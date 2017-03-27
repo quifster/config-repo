@@ -1,2 +1,4 @@
 info:
-    foo: bar
+  foo: bar
+other:
+  stuff: here
